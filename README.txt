@@ -1,1 +1,1 @@
-git and github test
+Multiple Linear Regression using pandas, matplotlib and sklearn (scikit-learn)
